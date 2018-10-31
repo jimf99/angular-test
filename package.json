@@ -47,6 +47,7 @@
   "dependencies": {
     "bower": "^1.8.4",
     "express": "^4.16.3",
+    "jquery-mockjax": "^2.5.0",
     "mongodb": "^3.1.6",
     "mongoose": "^5.3.4",
     "nodemon": "^1.18.4"
